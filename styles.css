@@ -14,8 +14,10 @@ h1{
 	background-color: #f8f8f8;
 	padding: 10px;
 }
-.img-container{
-	text-align: center;
+img{
+	display: block;
+	margin: auto;
+	margin-block-end: 10px;
 }
 .book-library{
 	margin:20px  50px;
