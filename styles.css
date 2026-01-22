@@ -26,7 +26,7 @@ h1{
 	box-shadow: 0 6px 8px 5px rgba(0,0,0,0.1);
 }
 .book{
-	background-color: #f8f8f8;
+	background-color: rgb(46, 204, 113);
 	padding: 20px;
 }
 p{
@@ -39,4 +39,5 @@ p{
 	background-color: #2ecc71;
 	padding: 10px;
 	width: 100%;
+	text-align: center;
 }
