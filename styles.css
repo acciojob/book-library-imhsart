@@ -11,7 +11,7 @@ h1{
 		text-align: center;
 }
 .heading{
-	background-color: lightgrey;
+	background-color: #f8f8f8;
 	padding: 10px;
 }
 .img-container{
@@ -26,7 +26,7 @@ h1{
 	box-shadow: 0 6px 8px 5px rgba(0,0,0,0.1);
 }
 .book{
-	background-color: lightgrey;
+	background-color: #f8f8f8;
 	padding: 20px;
 }
 p{
