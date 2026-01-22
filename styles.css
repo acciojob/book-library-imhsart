@@ -26,11 +26,11 @@ h1{
 	box-shadow: 0 6px 8px 5px rgba(0,0,0,0.1);
 }
 .book{
-	background-color: rgb(46, 204, 113);
+	background-color: #f8f8f8;
 	padding: 20px;
 }
 p{
-	color: #777777;
+	color: rgb(119, 119, 119);
 }
 .price-button{
 	color: white;
@@ -38,6 +38,5 @@ p{
 	border-radius: 5px;
 	background-color: #2ecc71;
 	padding: 10px;
-	width: 100%;
 	text-align: center;
 }
