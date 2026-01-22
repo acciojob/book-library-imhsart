@@ -7,8 +7,10 @@
 body{
 	background-color: #f8f8f8;;
 }
+h1{
+		text-align: center;
+}
 .heading{
-	text-align: center;
 	background-color: lightgrey;
 	padding: 10px;
 }
@@ -30,7 +32,7 @@ body{
 p{
 	color: #777777;
 }
-button{
+.price-button{
 	color: white;
 	border: none;
 	border-radius: 5px;
